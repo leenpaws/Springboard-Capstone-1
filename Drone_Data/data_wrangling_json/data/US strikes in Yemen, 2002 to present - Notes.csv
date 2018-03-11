@@ -1,0 +1,40 @@
+US drone strikes in Yemen,,,
+"The first known US drone strike outside of Afghanistan hit Yemen in 2002, killing six people. The US carried out its second reported attack in the country after a pause of more than seven years.
+
+Both the Pentagon and CIA have carried out strikes in Yemen from Camp Lemonnier in Djibouti and a base in Saudi Arabia at an as yet unknown location. The military strikes are carried out under the command of the Joint Special Operations Command. This shadowy special forces unit has at times reportedly halted its strikes after botching strikes and killing civilians.
+
+The US has also launched strikes with other weapons systems, including conventional jet aircraft and cruise missiles. The Bureau records these operations as ""other US operations"" in the year-by-year summaries in this spreadsheet.
+
+The strikes have targeted al Qaeda fighters. The first strike, in 2002, targeted Abu Ali al Harithi - a member of al Qaeda since the 1990s and the leader of the group's presence in Yemen. In 2007 al Qaeda in Yemen and al Qaeda in Saudi Arabia united to form al Qaeda in the Arabian Peninsula (AQAP). This has been the focus of US operations in Yemen since, and is frequently dubbed the most dangerous of al Qaeda's affiliates and franchises.
+
+AQAP occasionally used a different name, Ansar al Sharia, after it took control of a swathe of southern Yemen in 2011, taking advantage of the popular protest that swamped the Arabic-speaking world that year. Ansar al Sharia was a re-branding exercise by AQAP, an attempt to move away from the name al Qaeda which had been tainted by the bloodlust of al Qaeda in Iraq and the extreme sectarian violence it unleashed across Iraq in 2006 and 2007. The strikes have also killed scores of civilians.
+
+The events detailed in this spreadsheet are those actions which have been reported by US administration and intelligence officials, credible media, academics and other sources since 2002.",,,
+Please see our methodology for more information on our sources:,,,http://www.thebureauinvestigates.com/2011/08/10/pakistan-drone-strikes-the-methodology2/#sources 
+The full methodology is available here:,,http://www.thebureauinvestigates.com/2011/08/10/pakistan-drone-strikes-the-methodology2 ,
+,,,
+"This spreadsheet lists those US covert actions in Yemen that have been reported by two or more credible sources. These including drone strikes, strikes with manned aircraft, naval bombardments and cruies missile strikes.",,,
+The full HTML datasets can be found here:,,http://www.thebureauinvestigates.com/category/projects/drones/drones-graphs/,
+,,,
+"The Bureau's work is licensed under creative commons. You are free to reuse this data but we ask you to please cite the Bureau as the source, and link back to this dataset. It is possible to download this spreadsheet however converting it into a Excel format will cause specific problems with the summary tables and the graphs because there are important differences between the coding of functions in Google drive and Excel.",,,
+More information on how to use the relevant functions in Excel:,,,https://support.office.com/en-in/article/SUMIFS-function-9dd6179e-cced-41dd-ac38-08fdf5b929e5 
+More on our Creative Commons license:,,http://creativecommons.org/licenses/by-nc-nd/3.0/ ,
+,,,
+"If you have any questions about this spreadsheet, about how we're presenting the data here, or if you have any corrections to our figures, please contact us at the below email address and include ""Yemen drone data"" in the subject line.",,,
+Contact the Bureau:,info@thebureauinvestigates.com ,,
+,,,
+"The attacks here are listed in chronological order. This is a live database: the Bureau does not consider any record closed. Therefore casualty estimates for any strike could change when new, credible information comes to light that affects our understanding of a particular event.
+
+Below are detailed notes explaining the coding, and column headings used in this spreadsheet:",,,
+,,,
+Strike ID,"A six figure code identifying each strike. The code's sequence is chonological: the higher the number, the more recent the strike. It does not signify which strikes were added to the database most recently.",,
+Date,In UK format: dd/mm/yyyy,,
+Location,The approximate reported location of a strike in Yemen.,,
+Province,The reported province or governorate where the strike hit.,,
+Strike type,"The US does not just use drones in its covert operations in Yemen. There have been strikes with cruise missiles, conventional strike fighter aircraft like F-15E Strike Eagles or Harrier jumpjets, and there have been several strikes reportedly by AC-130 Gunships - huge, slow aircraft bristling with weapons.",,
+"Confirmed/
+possible US strike","The US is not the only belligerent carrying out air strikes in Yemen - the Yemen Air Force, such as it is, launches air attacks, and the Royal Saudi Air Force has also reportedly carried out strikes. It is therefore not always conclusively clear if the US is responsible for a particular strike. The Bureau records strikes as confirmed US operations when they have been reported as such by a named or unnamed US official, by a named senior Yemeni offiicial, or by three or more unnamed official Yemeni officials in different published sources. All other operations are recorded as possible US attacks until new evidence comes to light which demonstrates they are US operations.",,
+Drone strike,"Reported drone strikes, regardless of whether they have been confirmed as US strikes, are marked with a 1. Other strikes are marked with a 0. This aids filtering the data.",,
+Casualty estimates,"The Bureau casualty estimates are divided into four sections: total people killed, total civilians killed, total children killed, and total injured. Each is expressed as a range. The minimum value is the lowest reported by the strike's sources, the maximum is the highest. Where there it is clear casualty estimates have been revised upwards or downwards, our range is adapted accordingly. However the souce will remain as a citation for the strike in our overall database, for reference.",,
+Strike link,The URLs are anchor tagged and will take you to the entry for the specific strike in our full datasheets on TBIJ.com. The link will open in a new tab in your browser by default.,,
+Index,"A unique and sequential index key. The higher the value, the later the strike was added to the database, regardless of where it falls within the chronology of strikes. For use as a primary key.",,

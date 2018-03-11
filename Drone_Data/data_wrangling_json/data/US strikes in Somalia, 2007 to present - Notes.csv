@@ -1,0 +1,57 @@
+US covert operations in Somalia,,,
+"The US has been carrying out extensive covert operations in Somalia since 2001.
+
+The Pentagon's Joint Special Operations Command (JSOC) is the lead agency in the US's covert war on terror in Somalia, though the CIA has a strong presence in the Horn of Africa.
+
+Elite troops from the Pentagon’s JSOC are routinely deployed on the ground for surveillance, reconnaissance, and assault and capture operations. In June 2011, the US began carrying out drone strikes in Somalia. JSOC has its own fleet of armed Reaper drones, which are flown from various bases in the region.
+
+The CIA also operates a secret base at Mogadishu airport, according to a detailed investigation by Jeremy Scahill at The Nation. Unarmed US surveillance drones also regularly fly from the airport, according to a well-informed Bureau source. While some of these are part of the US ‘war on terror’, many provide support for peacekeeping operations in the region.
+
+Both Kenya and Ethiopia have invaded parts of Somalia, the latter allegedly with extensive US assistance.
+
+Since 2007 an African Union peacekeeping force has been operating from Mogadishu. The force, called Amisom, has gradually pushed armed group Al Shabaab out of Mogadishu and other major population centres. Amisom is a UN-mandated and funded by the international community. It is trained by the EU and US. It is made up of soldiers from Burundi, Djibouti, Uganda and Sierra Leone. Kenya and Ethiopia also contribute troops to Amisom - they re-hatted units already occupying parts of Somalia after each nation invaded their neighbour.
+
+The Bureau has collected credible reports of known US covert operations, and other events, in Somalia. This is drawn predominantly from open source material: news reports, NGO reports and field investigations, for example.",,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+Please see our methodology for more information on our sources:,,,http://www.thebureauinvestigates.com/2011/08/10/pakistan-drone-strikes-the-methodology2/#sources
+The full methodology is available here:,,http://www.thebureauinvestigates.com/2011/08/10/pakistan-drone-strikes-the-methodology2,
+,,,
+"This spreadsheet lists those US covert actions in Somalia that have been reported by two or more credible sources. These including drone strikes, naval bombardments and air assaults to capture terrorists.",,,
+The full HTML dataset can be found here:,,www.thebureauinvestigates.com/2012/02/22/get-the-data-somalias-hidden-war/,
+,,,
+"The Bureau's work is licensed under creative commons. You are free to reuse this data but we ask you to please cite the Bureau as the source, and link back to this dataset. It is possible to download this spreadsheet however converting it into a Excel format will cause specific problems with the summary tables and the graphs because there are important differences between the coding of functions in Google drive and Excel.",,,
+More information on how to use the relevant functions in Excel:,,,https://support.office.com/en-in/article/SUMIFS-function-9dd6179e-cced-41dd-ac38-08fdf5b929e5
+More on our Creative Commons license:,,http://creativecommons.org/licenses/by-nc-nd/3.0/,
+,,,
+"If you have any questions about this spreadsheet, about how we're presenting the data here, or if you have any corrections to our figures, please contact us at the below email address and include ""Somalia drone data"" in the subject line.",,,
+Contact the Bureau:,info@thebureauinvestigates.com,,
+,,,
+"The attacks here are listed in chronological order. This is a live database: the Bureau does not consider any record closed. Therefore casualty estimates for any strike could change when new, credible information comes to light that affects our understanding of a particular event.
+
+Below are detailed notes explaining the coding, and column headings used in this spreadsheet:",,,
+,,,
+Strike ID,"A six figure code identifying each strike. The code's sequence is chonological: the higher the number, the more recent the strike. It does not signify which strikes were added to the database most recently.",,
+Date,In UK format: dd/mm/yyyy,,
+Location,"The approximate location of a strike in Somalia, as reported by the sources.",,
+"Confirmed/
+possible US strike","The US is not the only force fighting in Somalia. It is not always conclusively clear if the US is responsible for a strike. The Bureau considers strikes that have been reported as US by a US official, a named senior Somalia government offiicial, or three independent unnamed official Somali sources. All other operations are possible US attacks.",,
+Drone strike,"Reported drone strikes, regardless of whether they have been confirmed as US strikes, are marked with a 1. Other strikes are marked with a 0. This aids filtering the data.",,
+Strike type,"The US has not just used drones in its covert operations in Somalia. There have been strikes with cruise missiles, special forces have deployed on the ground for kill or capture operations, a USS warship bombarded the coast of Somalia on one occasion,and there have been several strikes reportedly by AC-130 Gunships - huge, slow aircraft bristling with weapons.",,
+Casualty estimates,"The Bureau casualty estimates are divided into four sections: total people killed, total civilians killed, total children killed, and total injured. Each is expressed as a range. The minimum value is the lowest reported by the strike's sources, the maximum is the highest. Where there it is clear casualty estimates have been revised upwards or downwards, our range is adapted accordingly. However the souce will remain as a citation for the strike in our overall database, for reference.
+
+When calculating the year-by-year summary tables, the minimum end of each category of casualty estimate is calculated by summing the minimum values for each of the confirmed US operations only. The maximum end of each casualty category is calculated by the maximum values for confirmed and possible US operations.",,
+Strike link,The URLs are anchor tagged and will take you to the entry for the specific strike in our full datasheets on TBIJ.com. The link will open in a new tab in your browser by default.,,
+Index,"A unique and sequential index key. The higher the value, the later the strike was added to the database, regardless of where it falls within the chronology of strikes. For use as a primary key.",,

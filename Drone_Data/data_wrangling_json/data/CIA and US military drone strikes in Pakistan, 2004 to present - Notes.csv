@@ -1,0 +1,36 @@
+US drone strikes in Pakistan,,,
+"The US has been carrying out drone strikes in Pakistan since June 2004. Since then there have been more strikes on the country than on any other beyond Afghanistan.
+
+The strikes in Pakistan are under the command of the CIA alone, unlike in Yemen and Somalia where the military and CIA operate together. Initially the strikes were launched from airbases inside Pakistan. However US-Pakistani relations soured in 2011 and the US drones were expelled across the border into Afghanistan.
+
+The CIA occasionally launched strikes in Pakistan for the first few years of the campaign. The attacks increased in frequency in 2008, the last year of the George W Bush presidency. However, when President Barack Obama moved into the White House, the strike frequency increased dramatically. More strikes were launched during President Obama's first year in office than during both terms of the Bush presidency.
+
+When using this data, it should be remembered that Barack Obama did not succeed George Bush until January 20 2009. There were two CIA drone strikes in the first days of 2009, before this accession. The year-by-year summary tables do not make this distinction, however the tables summarising the data for each of the administrations does.
+
+The strikes have targeted and killed members of various armed groups based in Pakistan, including al Qaeda, the Pakistan Taliban, and the Haqqani Network. The strikes have also killed more than 400 civilians.
+
+The events detailed below are those actions which have been reported by US administration and intelligence officials, credible media, academics and other sources since 2004. This spreadsheet lists those CIA drone strikes that have been reported by two or more credible sources.",,,
+Please see our methodology for more information on our sources:,,,http://www.thebureauinvestigates.com/2011/08/10/pakistan-drone-strikes-the-methodology2/#sources
+The full methodology is available here:,,http://www.thebureauinvestigates.com/2011/08/10/pakistan-drone-strikes-the-methodology2,
+The full HTML datasets can be found here:,,http://www.thebureauinvestigates.com/category/projects/drones/drones-graphs/ ,
+,,,
+"The Bureau's work is licensed under creative commons. You are free to reuse this data but we ask you to please cite the Bureau as the source, and link back to this dataset. It is possible to download this spreadsheet however converting it into a Excel format will cause specific problems with the summary tables and the graphs because there are important differences between the coding of functions in Google drive and Excel.",,,
+More information on how to use the relevant functions in Excel:,,,https://support.office.com/en-in/article/SUMIFS-function-9dd6179e-cced-41dd-ac38-08fdf5b929e5
+More on our Creative Commons license:,,http://creativecommons.org/licenses/by-nc-nd/3.0/,
+,,,
+"If you have any questions about this spreadsheet, about how we're presenting the data here, or if you have any corrections to our figures, please contact us at the below email address and include ""Pakistan drone data"" in the subject line.",,,
+Contact the Bureau:,info@thebureauinvestigates.com ,,
+,,,
+"The attacks here are listed in chronological order. This is a live database: the Bureau does not consider any record closed. Therefore casualty estimates for any strike could change when new, credible information comes to light that affects our understanding of a particular event.
+
+Below are detailed notes explaining the coding, and column headings used in this spreadsheet:",,,
+,,,
+Strike ID,"A four or five figure alphanumeric code identifying each strike. The letters signify under which President the strike was conducted (B for Bush, Ob for Obama, T for Trump). The code's numeric sequence is chronological: the higher the number, the more recent the strike. It does not signify which strikes were added to the database most recently.",,
+Date,In UK format: dd/mm/yyyy,,
+Location,The approximate reported location of a strike in Pakistan.,,
+Area,"The reported tribal agency, frontier region or province where the strike hit.",,
+Casualty estimates,"The Bureau casualty estimates are divided into four sections: total people killed, total civilians killed, total children killed, and total injured. Each is expressed as a range. The minimum value is the lowest reported by the strike's sources, the maximum is the highest. Where there it is clear casualty estimates have been revised upwards or downwards, our range is adapted accordingly. However the source will remain as a citation for the strike in our overall database, for reference.",,
+Strike link,The URLs are anchor tagged and will take you to the entry for the specific strike in our full datasheets on TBIJ.com. The link will open in a new tab in your browser by default.,,
+Index,"A unique and sequential index key. The higher the value, the later the strike was added to the database, regardless of where it falls within the chronology of strikes. For use as a primary key.",,
+Total casualty rate,The average number of people killed per strike in a year. Calculated by dividing the minimum number of total people killed in a year by the total number of CIA drone strikes in that year.,,
+Civilian casualty rate,The average number of civilians reported killed per strike in a year. Calculated by dividing the minimum number of civilians reported killed in a year by the total number of CIA drone strikes in that year.,,
